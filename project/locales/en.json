@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About",
+    "cart": "Cart"
+  },
+  "home": {
+    "hero": {
+      "title": "Delicious Gelatin Cakes",
+      "subtitle": "Handcrafted with Love",
+      "description": "Discover our stunning collection of artisanal gelatin cakes, perfect for any celebration. Each cake is carefully crafted with premium ingredients and attention to detail.",
+      "shopNow": "Shop Now",
+      "learnMore": "Learn More"
+    },
+    "featured": {
+      "title": "Featured Cakes",
+      "subtitle": "Our most popular creations"
+    },
+    "about": {
+      "title": "Why Choose Our Gelatin Cakes?",
+      "quality": "Premium Quality",
+      "qualityDesc": "Made with the finest ingredients",
+      "handcrafted": "Handcrafted",
+      "handcraftedDesc": "Each cake is lovingly made by hand",
+      "custom": "Custom Orders",
+      "customDesc": "We can create cakes for any occasion"
+    },
+    "cta": {
+      "title": "Ready to Order?",
+      "subtitle": "Browse our full collection and place your order today!",
+      "button": "View All Cakes"
+    }
+  },
+  "shop": {
+    "title": "Our Collection",
+    "subtitle": "Browse our delicious gelatin cakes",
+    "loading": "Loading cakes...",
+    "noCakes": "No cakes available at the moment.",
+    "viewDetails": "View Details"
+  },
+  "product": {
+    "loading": "Loading product...",
+    "notFound": "Product not found",
+    "backToShop": "Back to Shop",
+    "description": "Description",
+    "addToCart": "Add to Cart",
+    "quantity": "Quantity",
+    "itemAdded": "Item added to cart!",
+    "price": "Price"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Add some delicious gelatin cakes to get started!",
+    "startShopping": "Start Shopping",
+    "items": "items",
+    "item": "item",
+    "inYourCart": "in your cart",
+    "each": "each",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "pickupOnly": "Pickup Only",
+    "total": "Total",
+    "proceedToCheckout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Complete your order",
+    "contactInfo": "Contact Information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "pickupDetails": "Pickup Details",
+    "pickupDate": "Pickup Date",
+    "pickupTime": "Pickup Time",
+    "specialInstructions": "Special Instructions",
+    "instructionsPlaceholder": "Any special requests or dietary requirements?",
+    "orderSummary": "Order Summary",
+    "items": "items",
+    "item": "item",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "pickupOnly": "Pickup Only",
+    "total": "Total",
+    "placeOrder": "Place Order",
+    "processing": "Processing...",
+    "fillRequired": "Please fill in all required fields",
+    "selectPickupTime": "Please select a pickup time"
+  },
+  "confirmation": {
+    "title": "Order Confirmed!",
+    "subtitle": "Thank you for your order",
+    "message": "We've received your order and will have it ready for pickup at your selected time.",
+    "orderNumber": "Order Number",
+    "pickupInfo": "Pickup Information",
+    "date": "Date",
+    "time": "Time",
+    "contactInfo": "Contact Information",
+    "orderDetails": "Order Details",
+    "total": "Total",
+    "backToHome": "Back to Home",
+    "continueShopping": "Continue Shopping"
+  },
+  "about": {
+    "title": "About Joe's Gelatin Cakes",
+    "subtitle": "Traditional Mexican Gelatina Cakes in Buffalo, NY",
+    "story": {
+      "title": "Our Story",
+      "content": "Joe is proud to share his traditional Mexican gelatina cakes in Buffalo and Western New York. What started as a family tradition learned growing up on a farm in Arizona has now become a way to bring authentic Mexican desserts to the local community.\n\nEach Mexican jello cake (gelatina cake) is made from scratch and crafted with care, combining vibrant colors, unique flavors, and beautiful layered designs. These desserts have become a favorite for birthdays, family gatherings, quinceañeras, and special celebrations.\n\nJoe takes pride in offering handmade Mexican desserts in Buffalo, NY, giving people the chance to enjoy a treat that is both visually stunning and delicious. Whether you're looking for a custom gelatina cake in Western New York or a traditional Mexican dessert for a special occasion, Joe's cakes are made to bring people together.\n\nAs a proud military veteran, Joe believes in dedication, craftsmanship, and serving his community. Every cake reflects those values, ensuring customers receive a dessert that is made with care and tradition."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To share the rich tradition of Mexican gelatina cakes with Buffalo and Western New York, creating beautiful desserts that bring families and communities together for every special celebration."
+    },
+    "quality": {
+      "title": "Veteran Values",
+      "content": "As a proud military veteran, Joe brings dedication, precision, and a commitment to excellence to every cake. Each dessert reflects the values of hard work, attention to detail, and service to the community."
+    },
+    "custom": {
+      "title": "Custom Celebrations",
+      "content": "From quinceañeras to birthdays, family gatherings to special occasions, we create custom gelatina cakes that honor your celebration with authentic Mexican tradition and stunning visual appeal."
+    }
+  },
+  "footer": {
+    "tagline": "Handcrafted gelatin cakes made with love",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "allRights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "close": "Close",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  }
+}
