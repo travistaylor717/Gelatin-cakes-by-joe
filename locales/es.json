@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "about": "Nosotros",
+    "cart": "Carrito"
+  },
+  "home": {
+    "hero": {
+      "title": "Deliciosas Gelatinas Artísticas",
+      "subtitle": "Hechas a Mano con Amor",
+      "description": "Descubre nuestra impresionante colección de gelatinas artesanales, perfectas para cualquier celebración. Cada gelatina está cuidadosamente elaborada con ingredientes premium y atención al detalle.",
+      "shopNow": "Comprar Ahora",
+      "learnMore": "Saber Más"
+    },
+    "featured": {
+      "title": "Gelatinas Destacadas",
+      "subtitle": "Nuestras creaciones más populares"
+    },
+    "about": {
+      "title": "¿Por Qué Elegir Nuestras Gelatinas?",
+      "quality": "Calidad Premium",
+      "qualityDesc": "Hechas con los mejores ingredientes",
+      "handcrafted": "Artesanales",
+      "handcraftedDesc": "Cada gelatina está hecha a mano con amor",
+      "custom": "Pedidos Personalizados",
+      "customDesc": "Creamos gelatinas para cualquier ocasión"
+    },
+    "cta": {
+      "title": "¿Listo para Ordenar?",
+      "subtitle": "¡Explora nuestra colección completa y haz tu pedido hoy!",
+      "button": "Ver Todas las Gelatinas"
+    }
+  },
+  "shop": {
+    "title": "Nuestra Colección",
+    "subtitle": "Explora nuestras deliciosas gelatinas",
+    "loading": "Cargando gelatinas...",
+    "noCakes": "No hay gelatinas disponibles en este momento.",
+    "viewDetails": "Ver Detalles"
+  },
+  "product": {
+    "loading": "Cargando producto...",
+    "notFound": "Producto no encontrado",
+    "backToShop": "Volver a la Tienda",
+    "description": "Descripción",
+    "addToCart": "Agregar al Carrito",
+    "quantity": "Cantidad",
+    "itemAdded": "¡Artículo agregado al carrito!",
+    "price": "Precio"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyDesc": "¡Agrega algunas deliciosas gelatinas para comenzar!",
+    "startShopping": "Comenzar a Comprar",
+    "items": "artículos",
+    "item": "artículo",
+    "inYourCart": "en tu carrito",
+    "each": "cada uno",
+    "orderSummary": "Resumen del Pedido",
+    "subtotal": "Subtotal",
+    "delivery": "Entrega",
+    "pickupOnly": "Solo Recogida",
+    "total": "Total",
+    "proceedToCheckout": "Proceder al Pago",
+    "continueShopping": "Seguir Comprando"
+  },
+  "checkout": {
+    "title": "Pagar",
+    "subtitle": "Completa tu pedido",
+    "contactInfo": "Información de Contacto",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "pickupDetails": "Detalles de Recogida",
+    "pickupDate": "Fecha de Recogida",
+    "pickupTime": "Hora de Recogida",
+    "specialInstructions": "Instrucciones Especiales",
+    "instructionsPlaceholder": "¿Alguna solicitud especial o requisito dietético?",
+    "orderSummary": "Resumen del Pedido",
+    "items": "artículos",
+    "item": "artículo",
+    "subtotal": "Subtotal",
+    "delivery": "Entrega",
+    "pickupOnly": "Solo Recogida",
+    "total": "Total",
+    "placeOrder": "Realizar Pedido",
+    "processing": "Procesando...",
+    "fillRequired": "Por favor completa todos los campos requeridos",
+    "selectPickupTime": "Por favor selecciona una hora de recogida"
+  },
+  "confirmation": {
+    "title": "¡Pedido Confirmado!",
+    "subtitle": "Gracias por tu pedido",
+    "message": "Hemos recibido tu pedido y lo tendremos listo para recoger en el horario seleccionado.",
+    "orderNumber": "Número de Pedido",
+    "pickupInfo": "Información de Recogida",
+    "date": "Fecha",
+    "time": "Hora",
+    "contactInfo": "Información de Contacto",
+    "orderDetails": "Detalles del Pedido",
+    "total": "Total",
+    "backToHome": "Volver al Inicio",
+    "continueShopping": "Seguir Comprando"
+  },
+  "about": {
+    "title": "Acerca de las Gelatinas de Joe",
+    "subtitle": "Gelatinas Mexicanas Tradicionales en Buffalo, NY",
+    "story": {
+      "title": "Nuestra Historia",
+      "content": "Joe se enorgullece de compartir sus gelatinas mexicanas tradicionales en Buffalo y Western New York. Lo que comenzó como una tradición familiar aprendida al crecer en una granja en Arizona, ahora se ha convertido en una forma de traer postres mexicanos auténticos a la comunidad local.\n\nCada gelatina mexicana se hace desde cero y se elabora con cuidado, combinando colores vibrantes, sabores únicos y hermosos diseños en capas. Estos postres se han convertido en favoritos para cumpleaños, reuniones familiares, quinceañeras y celebraciones especiales.\n\nJoe se enorgullece de ofrecer postres mexicanos hechos a mano en Buffalo, NY, brindando a las personas la oportunidad de disfrutar de un postre que es visualmente impresionante y delicioso. Ya sea que esté buscando una gelatina personalizada en Western New York o un postre mexicano tradicional para una ocasión especial, las gelatinas de Joe están hechas para unir a las personas.\n\nComo veterano militar orgulloso, Joe cree en la dedicación, la artesanía y el servicio a su comunidad. Cada gelatina refleja esos valores, asegurando que los clientes reciban un postre hecho con cuidado y tradición."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "content": "Compartir la rica tradición de las gelatinas mexicanas con Buffalo y Western New York, creando hermosos postres que unen a familias y comunidades en cada celebración especial."
+    },
+    "quality": {
+      "title": "Valores de Veterano",
+      "content": "Como veterano militar orgulloso, Joe aporta dedicación, precisión y un compromiso con la excelencia a cada gelatina. Cada postre refleja los valores de trabajo duro, atención al detalle y servicio a la comunidad."
+    },
+    "custom": {
+      "title": "Celebraciones Personalizadas",
+      "content": "Desde quinceañeras hasta cumpleaños, reuniones familiares hasta ocasiones especiales, creamos gelatinas personalizadas que honran tu celebración con tradición mexicana auténtica y un atractivo visual impresionante."
+    }
+  },
+  "footer": {
+    "tagline": "Gelatinas artesanales hechas con amor",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "followUs": "Síguenos",
+    "allRights": "Todos los derechos reservados"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "close": "Cerrar",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar"
+  }
+}
